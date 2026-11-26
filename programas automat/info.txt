@@ -1,0 +1,26 @@
+!Bienvenido a el centro de informaion¡
+
+abrevaciones:
+
+Las abrevaciones las uso por costumbre y gusto
+Aca esta la lista de esas:
+
+ automat | automatizacion
+
+ AVA | AVAnzado
+
+ CAT | CATegoria/s
+
+ VG | Visual Graphics
+
+ num/NUM |  NUMero (obvio)
+
+ TL | TerminaL
+
+ informacion:
+
+ si ves los archivos, hay una razon de por que faltan 2 programas. es por que el primer programa lo hize para mi madre y el segundo en mi celular.
+
+ estos programas los hize por aburrimiento, antes de que llegue mi computadora a mi casa, use la de mi mama por que queria programar algo y habia descubierto la programacion bash y shell.
+
+ eso es todo, feliz programacion¡
